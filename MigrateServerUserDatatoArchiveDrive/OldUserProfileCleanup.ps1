@@ -10,8 +10,7 @@
 $sourcePath = "C:\Users"
 $destinationPath = "E:\Users_Archive"
 
-$IgnoreList = @("AWSSMAGENT_USER", "azsqlconnect", "azure_migration@am.lilly.com", "CitrixTelemetryService", "CTRXGLBSRVC", "ctxz1dbadmin", "CTXZ1XDPVS", "Default", "Default2", "express2@am.lilly.com", "IGNIOWIN", "indypar_toolsaccount", "iparipad052", "IPM_DENODO_DEV", "LocAdm", "LocalService", "MQIDS_O365", "NetworkService", "OASISUSER"
-)
+$IgnoreList = @("ExampleUser1", "ExampleUser2")
 
 ###################################################################################
 #STEP 1

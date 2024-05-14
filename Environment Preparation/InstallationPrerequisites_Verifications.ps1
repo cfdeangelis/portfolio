@@ -1,6 +1,6 @@
 ﻿#Installation Prerequisites_Before Restart Script
 #Created on 03-MAY-2024
-#Created by Christopher DeAngelis (L010436)
+#Created by Christopher DeAngelis
 
 #########################################################################################################################################################
 #Global Variables
